@@ -1,5 +1,5 @@
 # n8n-docker-caddy-postgres
-This will help setup n8n with Caddy and Postgres 15
+This will help setup n8n with Caddy and Postgres 14
 
 ## Quick Setup
 ### Create volumes
